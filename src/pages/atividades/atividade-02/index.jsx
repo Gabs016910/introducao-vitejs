@@ -16,6 +16,7 @@ export default function Exemplo03() {
 
     return (
         <div className={styles.container}>
+            <div>
             <label 
                 onClick={() => handleTirar()}
                 className={styles.botao}
@@ -27,6 +28,7 @@ export default function Exemplo03() {
                 onClick={() => handleIncrementa()}
                 className={styles.botao}
             >+1</label>
+            </div>
         </div>
     );
 }
