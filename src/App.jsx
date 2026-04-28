@@ -8,6 +8,7 @@ import Exemplo04 from './pages/exemplos/ex-04';
 
 import Atividade01 from './pages/atividades/atividade-01/index';
 import Atividade02 from './pages/atividades/atividade-02/index';
+import Atividade03 from './pages/atividades/atividade-03';
 
 function App() {
 
