@@ -12,7 +12,8 @@ function Home() {
                 <Link to="/exemplo/2">Exemplo 2 - Uso de estabilização com module</Link>
                 <Link to="/exemplo/3">Exemplo 3 - Contador</Link>
                 <Link to="/exemplo/4">Exemplo 4 - Uso de componentes</Link>
-                <Link to="/exemplo/5">Exemplo 5 - Formulario</Link>
+                <Link to="/exemplo/5">Exemplo 5 - Lista de Compras</Link>
+                <Link to="/exemplo/6">Exemplo 6 - Formulario</Link>
             </div>
             <div className={styles.containerItens}>
                 <h2>Atividades</h2>
@@ -20,6 +21,7 @@ function Home() {
                 <Link to="/atividade/2">Atividade 2 - Atividade Contador, Adiciona e Subtrai</Link>
                 <Link to="/atividade/3">Atividade 3 - Uso de componentes</Link>
                 <Link to="/atividade/4">Atividade 4 - Lista de compras</Link>
+                <Link to="/atividade/5">Atividade 5 - Formulario</Link>
             </div>
         </div>
     )
